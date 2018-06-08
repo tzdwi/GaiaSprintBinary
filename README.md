@@ -1,4 +1,4 @@
 # GaiaSprintBinary
 Looking for binaries in the Gaia DR2 data.
 
-Authors: mrawls, tzdwi, PaulR44
+Authors: mrawls, tzdwi, PaulR44, jsobeck
